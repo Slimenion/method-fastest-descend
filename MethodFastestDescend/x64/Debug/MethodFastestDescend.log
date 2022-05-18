@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\mrsli\source\repos\MethodFastestDescend\MethodFastestDescend\main.cpp(18,27): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\mrsli\source\repos\MethodFastestDescend\MethodFastestDescend\main.cpp(20,33): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\mrsli\source\repos\MethodFastestDescend\MethodFastestDescend\main.cpp(61,57): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\MethodFastestDescend\MethodFastestDescend\main.cpp(61,124): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\MethodFastestDescend\MethodFastestDescend\main.cpp(61,186): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\MethodFastestDescend\MethodFastestDescend\main.cpp(83,65): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\MethodFastestDescend\MethodFastestDescend\main.cpp(83,123): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\MethodFastestDescend\MethodFastestDescend\main.cpp(122,57): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\MethodFastestDescend\MethodFastestDescend\main.cpp(123,57): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\MethodFastestDescend\MethodFastestDescend\main.cpp(133,59): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\MethodFastestDescend\MethodFastestDescend\main.cpp(142,59): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\MethodFastestDescend\MethodFastestDescend\main.cpp(109): warning C4172: возвращение адреса локальной или временной переменной : ans
+  MethodFastestDescend.vcxproj -> C:\Users\mrsli\source\repos\MethodFastestDescend\x64\Debug\MethodFastestDescend.exe
